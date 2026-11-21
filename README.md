@@ -10,7 +10,7 @@ Aplikasi GUI sederhana berbasis **Java Swing** untuk mengisi biodata mahasiswa. 
 ### Dialog Data Tersimpan
 ![Tampilan Dialog](ss/DialogDataTersimpan.png)
 
-> Taruh foto di folder `screenshot/` dengan nama `form.png` dan `dialog.png`.
+
 
 ## Fitur
 - Input **Nama**, **NIM**, dan **Jurusan**
